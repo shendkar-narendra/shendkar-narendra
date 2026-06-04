@@ -25,3 +25,9 @@ Enthusiastic about Deep Learning, Computer Vision, and Robotics. Continuously ex
 • Computer Vision & Deep Learning: OpenCV, YOLO
 
 • 3D Perception & Sensor Fusion: PointPillars, BEVFusion
+
+<img width="1000" height="350" alt="000035" src="https://github.com/user-attachments/assets/d39c2ffa-1cad-4721-8f8e-c0186d6148c4" />
+<img width="900" height="300" alt="000045" src="https://github.com/user-attachments/assets/14c25f26-7121-4922-8f3a-685f5a48e298" /> 
+<img width="800" height="450" alt="006037_collage" src="https://github.com/user-attachments/assets/365a26f6-3881-428c-9f77-1821eac3bc06" />
+
+
