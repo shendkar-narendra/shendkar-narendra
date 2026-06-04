@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 Enthusiastic about Deep Learning, Computer Vision, and Robotics. Continuously exploring perception using cameras, LiDAR, and radar, along with sensor fusion for autonomous systems. 
 
 • Programming: Python, C
+
 • Operating Systems & Tools: Linux, Git, Docker
+
 • Robotics & Middleware: ROS
+
 • Computer Vision & Deep Learning: OpenCV, YOLO
+
 • 3D Perception & Sensor Fusion: PointPillars, BEVFusion
