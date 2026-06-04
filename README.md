@@ -1,4 +1,4 @@
-## Hi there 👋
+## AI and Robotics Research Enthusiast | M.Sc. Mechatronics 👋
 
 <!--
 **shendkar-narendra/shendkar-narendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Enthusiastic about Deep Learning, Computer Vision, and Robotics. Continuously exploring perception using cameras, LiDAR, and radar, along with sensor fusion for autonomous systems. 
+
+• Programming: Python, C
+• Operating Systems & Tools: Linux, Git, Docker
+• Robotics & Middleware: ROS
+• Computer Vision & Deep Learning: OpenCV, YOLO
+• 3D Perception & Sensor Fusion: PointPillars, BEVFusion
