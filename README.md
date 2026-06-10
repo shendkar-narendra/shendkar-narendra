@@ -27,7 +27,14 @@ Enthusiastic about Deep Learning, Computer Vision, and Robotics. Continuously ex
 • 3D Perception & Sensor Fusion: PointPillars, BEVFusion
 
 
-https://github.com/user-attachments/assets/238e5066-cff1-44fe-affa-c9aa7de49dac
+YOLO Model trainer on KITTI Dataset, It can predict objects from any such Road Video!!!
+
+https://github.com/user-attachments/assets/f340436d-5678-4d46-a59e-7a09766fbec0
+
+
+
+
+
 
 
 
